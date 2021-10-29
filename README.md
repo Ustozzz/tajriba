@@ -1,2 +1,2 @@
 # tajriba
-bu saytda html cs jaavscript ishlatilgan 
+bu saytda html css jaavscript ishlatilgan 
